@@ -29,7 +29,7 @@ div h2 {
   height: 14rem;
   width: 14rem;
   clip-path: circle(50% at 50% 50%);
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .container img {
   background-position: center;
@@ -96,6 +96,12 @@ button a {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1.5rem;
+}
+.socialmedia h3 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0 1rem;
 }
 footer h2 {
   font-size: 1.5rem;
